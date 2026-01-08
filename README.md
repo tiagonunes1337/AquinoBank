@@ -7,9 +7,9 @@ O desenvolvimento foi realizado inteiramente em ambiente **Linux (Ubuntu)**, com
 
 ## Tecnologias e Ferramentas
 
-- **Linguagem:** Java 17 (JDK 17)
+- **Linguagem:** Java 17 (JDK 25)
 - **Build Tool:** Apache Maven
-- **IDE:** Apache NetBeans
+- **IDE:** Apache NetBeans 28
 - **Sistema Operacional:** Ubuntu Linux
 - **Controle de Versão:** Git
 
